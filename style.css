@@ -1,0 +1,6 @@
+.navega{
+    display: flex;
+    background-color: var(--color-bg-box);
+    padding: 20px;
+    gap: var(--gap);
+}
