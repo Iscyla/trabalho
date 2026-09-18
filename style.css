@@ -1,6 +1,14 @@
-.navega{
+@import url('https://fonts.googleapis.com/css2?family=Honk:MORF@15&display=swap');
+
+#titulo{
+    font-family: "Honk", system-ui;
+    font-weight: 700;
+}
+
+.navegacao{
     display: flex;
-    background-color: var(--color-bg-box);
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
     padding: 20px;
-    gap: var(--gap);
 }
